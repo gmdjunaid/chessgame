@@ -1,5 +1,5 @@
 # chessgame
-Created by RAYAAN AFZAL and JUNAID GHANI
+Created by JUNAID GHANI and RAYAAN AFZAL 
 A 2-player chess game assignmet for CS213 @ Rutgers U
 
 bin/chess : contains class files when compiling main chess package <br>
