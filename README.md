@@ -1,6 +1,6 @@
 # chessgame
 Created by JUNAID GHANI and RAYAAN AFZAL 
-A 2-player chess game assignmet for CS213 @ Rutgers U
+A 2-player chess game 
 
 bin/chess : contains class files when compiling main chess package <br>
 src/chess : the chess package. All source code goes here. <br>
